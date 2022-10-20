@@ -1,2 +1,0 @@
-# jiajiazhu
-CS50IDE
